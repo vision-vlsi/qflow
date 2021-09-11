@@ -60,4 +60,5 @@ cd qflow/
 sudo make 
 sudo make install
 sudo apt-get install -y python3-tk --assume-yes
+sudo apt install klayout --assume-yes
 echo "Installation Completed"
